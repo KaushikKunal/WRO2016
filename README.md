@@ -1,2 +1,2 @@
-# WRO2016
-Final code for World Robotics Olympiad 2016
+# WRO2017
+Final code for World Robotics Olympiad 2017
